@@ -1,0 +1,3 @@
+Mise à jour des composants doctrine au niveau de la base de donnée:
+
+vendor/bin/doctrine orm:schema-tool:update --force
